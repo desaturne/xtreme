@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "leetcode": {
+      "command": "mcp-server-leetcode"
+    }
+  }
+}

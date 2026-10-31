@@ -1,0 +1,1 @@
+# probe3 = v2 + mem R*512KB at start ; cpu C*20ms over last 10 rounds
